@@ -1,5 +1,5 @@
 # Planner-App
-This is a custome designed planner application configured for an eight hour workday. It can be modified as needed to fit any block of time in a 24 hour period. 
+This is a custom designed planner application configured for an eight hour workday. It can be modified as needed to fit any block of time in a 24 hour period. 
 
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
